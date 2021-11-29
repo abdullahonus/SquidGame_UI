@@ -1,7 +1,10 @@
+
+////////////////////////////////////////////
+///follor For more ig: @Countrol4offical
+///@countrolfour@gmail.com
+////////////////////////////////////////////
 import 'package:flutter/material.dart';
-
 import 'elastic_drawer.dart';
-
 class SquidGame extends StatefulWidget {
   SquidGame({Key? key}) : super(key: key);
 
