@@ -1,16 +1,3 @@
-# squid_game
+![Ekran Görüntüsü (98)](https://user-images.githubusercontent.com/47148545/143957212-dcb54fef-315e-4889-9921-497adcc6caac.png)
+![Ekran Görüntüsü (99)](https://user-images.githubusercontent.com/47148545/143957219-846bc65d-9d59-406e-8c64-1d2ad75e67d2.png)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
