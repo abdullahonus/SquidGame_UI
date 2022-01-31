@@ -1,6 +1,6 @@
 
 ////////////////////////////////////////////
-///follor For more ig: @Countrol4offical
+///follow For more ig: @Countrol4offical
 ///@countrolfour@gmail.com
 ////////////////////////////////////////////
 import 'package:flutter/material.dart';
